@@ -22,7 +22,7 @@
   
 <a href="https://instagram.com/mj_mayankjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mj_mayankjha" height="30" width="40" /></a>
 
-<a href="https://www.codechef.com/users/mayank_613" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mayank_613" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mayank_613" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mayank_613" height="30" width="40"/></a>
 
 <a href="https://www.leetcode.com/jhamayank043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jhamayank043" height="30" width="40" /></a>
 </p>
