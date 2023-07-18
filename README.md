@@ -1,3 +1,5 @@
+![logo](https://github.com/Code-With-Mayank/Code-With-Mayank/blob/main/github%20banner.png)
+
 <h1 align="center">Hi 👋, I'm MAYANK JHA</h1>
 <h3 align="center">A passionate self-taught full stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</h3>
 
