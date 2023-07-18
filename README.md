@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MAYANK JHA</h1>
 <h3 align="center">A passionate self-taught full stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</h3>
 
-<img align="right" alt="coding" width="500" src="C:\Users\MAYANK JHA\Downloads\1030_ChatGPT_feat.gif">
+<img align="right" alt="coding" width="500" src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-mayank&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-mayank" /> </p>
 
