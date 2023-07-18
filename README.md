@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/Mayank Jha](https://www.linkedin.com/in/mayank-jha-9132b8214/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank jha" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/Mayank Jha](https://www.linkedin.com/in/mayank-jha-9132b8214/)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHLvFy3wirIzUFB_lvX_pWfXIVAfzcizwtpg&usqp=CAU)" alt="mayank jha" height="30" width="40" /></a>
 <a href="https://instagram.com/mj_mayankjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mj_mayankjha" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@mayankjha946" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mayankjha946" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mayank_613" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mayank_613" height="30" width="40" /></a>
