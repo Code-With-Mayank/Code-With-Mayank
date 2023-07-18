@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I became crazy to learn anything if I grow interest on it. 🤪**
 
-<h3 align="left">Connect With Me: </h3>
+<h3 align="left">Feel free to connect with me on any of the platforms below: </h3>
 <p align=left">
 <!--   <a href="your-website-link"><img src="https://img.shields.io/badge/Website-YourWebsite.com-blue?style=flat-square&logo=google-chrome"></a> -->
   <a href="https://linkedin.com/in/mayank-jha-9132b8214"><img src="https://img.shields.io/badge/LinkedIn-Mayank Jha-blue?style=flat-square&logo=linkedin"></a>
