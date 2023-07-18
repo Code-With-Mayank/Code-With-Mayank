@@ -17,20 +17,7 @@
 - ⚡ Fun fact **I became crazy to learn anything if I grow interest on it. 🤪**
 
 <h3 align="left">Connect With Me: </h3>
-<p align="left">
-<a href="https://linkedin.com/in/mayank-jha-9132b8214" target="blank">
-➡ Linked-In
- 
-<a href="https://instagram.com/mj_mayankjha" target="blank">
-➡ Instagram
-  
-<a href="https://www.codechef.com/users/mayank_613" target="blank">
-➡ Code-Chef
-  
-<a href="https://www.leetcode.com/jhamayank043" target="blank">
-➡ Leet-Code
-
-<p align="center">
+<p align=left">
 <!--   <a href="your-website-link"><img src="https://img.shields.io/badge/Website-YourWebsite.com-blue?style=flat-square&logo=google-chrome"></a> -->
   <a href="https://linkedin.com/in/mayank-jha-9132b8214"><img src="https://img.shields.io/badge/LinkedIn-Mayank Jha-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://instagram.com/mj_mayankjha"><img src="https://img.shields.io/badge/Instagram-Mayank Jha-pink?style=flat-square&logo=instagram"></a>
